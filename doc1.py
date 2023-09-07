@@ -1,0 +1,2 @@
+value="Yellow"
+print(value)
